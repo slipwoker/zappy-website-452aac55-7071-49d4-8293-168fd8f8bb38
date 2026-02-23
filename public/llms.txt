@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פתרונות שיווק דיגיטלי יצירתיים ומותאמים אישית לעסק שלך. שירותי קידום ממומן, שיווק שותפים ואסטרטגיות דיוור ישיר שמביאות תוצאות מדידות.
+
+### אודות
+https://example.com/about
+למד על הגישה הייחודית שלנו לשיווק דיגיטלי וקוד פתוח. שנים של ניסיון בבניית אסטרטגיות שיווק מנצחות ופיתוח פתרונות טכנולוגיים חדשניים.
+
+### קוד פתוח
+https://example.com/open-source
+גלה כלי קוד פתוח מתקדמים לשיווק דיגיטלי. פתרונות טכנולוגיים שקופים וניתנים להתאמה אישית שמעצימים את מערכות השיווק שלך ומגדילים המרות.
+
+### צור קשר
+https://example.com/contact
+מוכן להעלות את השיווק הדיגיטלי שלך לרמה הבאה? צור קשר עכשיו לייעוץ אישי בשיווק שותפים, דיוור ישיר וקמפיינים ממומנים שמניבים תוצאות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
